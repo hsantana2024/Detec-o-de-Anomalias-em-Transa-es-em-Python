@@ -96,6 +96,8 @@ plt.title("Detecção de Anomalias em Transações")
 plt.grid()
 
 plt.show()
+
+
 Saída Esperada
    id  valor  hora  anomalia
 0   1    120     8         1
@@ -108,6 +110,8 @@ Saída Esperada
 7   8    180    11         1
 8   9    220    15         1
 9  10   7000     2        -1
+
+
 Melhorias Futuras
 Nível Intermediário
 Analisar localização geográfica.
